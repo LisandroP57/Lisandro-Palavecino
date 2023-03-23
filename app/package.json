@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This is the proyect of my page",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisandroP57/Lisandro-Palavecino.git"
+  },
+  "author": "Lisandro Palavecino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisandroP57/Lisandro-Palavecino/issues"
+  },
+  "homepage": "https://github.com/LisandroP57/Lisandro-Palavecino#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
